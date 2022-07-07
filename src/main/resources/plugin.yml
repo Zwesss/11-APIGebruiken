@@ -1,0 +1,8 @@
+name: APIGebruiken
+version: '${project.version}'
+main: dev.tim.apigebruiken.Main
+api-version: 1.18
+commands:
+  gui:
+    description: Open de GUI gemaakt met een API
+    usage: /<command>
